@@ -6,6 +6,9 @@ This software should compile and run on a Teensy 3.1 although you will need a fe
 Copyright 2014-2015 by Phillip Schuster
 http://www.appfruits.com
 
+## Hardware
+We also added the Eagle PCBs Design, layout and schematics. We also added the Copper file. Copper is a Mac applications that makes it easy to generate 3D models of your Eagle based PCBs and also helps in building a BOM and keeping it up to date. Have a look at http://www.copper-app.com.
+
 ## Structure
 This software is C++ and shows how to build a nice, stack based application runloop and User Interface that is easily expandable by providing standard controls and protocols and uses the good old MVC structure. 
 
