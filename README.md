@@ -3,6 +3,9 @@ This is the Arduino compatible firmware running Little Helper, a little device t
 
 This software should compile and run on a Teensy 3.1 although you will need a few hardware components to make use of it. Have a look at http://www.appfruits.com/littlehelper. We provide everything from PCB schematics and layout, even enclosings to build your own Little Helper or getting inspired building your own little, useful device.
 
+Copyright 2014-2015 by Phillip Schuster
+http://www.appfruits.com
+
 ## Structure
 This software is C++ and shows how to build a nice, stack based application runloop and User Interface that is easily expandable by providing standard controls and protocols and uses the good old MVC structure. 
 
